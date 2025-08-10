@@ -63,7 +63,6 @@ Built with **Core PHP** and the **LAMP Stack**, this platform ensures **speed, s
 
 ## 🚀 How It Works
 
-```mermaid
 graph TD
     A[User Login] --> B[Dashboard]
     B --> C[View Hierarchy]
